@@ -1,0 +1,12 @@
+D:\Tedu\MicroService\aspnetcore-microservice\src\BuildingBlocks\Common.Logging\bin\Debug\net8.0\Common.Logging.deps.json
+D:\Tedu\MicroService\aspnetcore-microservice\src\BuildingBlocks\Common.Logging\bin\Debug\net8.0\Common.Logging.dll
+D:\Tedu\MicroService\aspnetcore-microservice\src\BuildingBlocks\Common.Logging\bin\Debug\net8.0\Common.Logging.pdb
+D:\Tedu\MicroService\aspnetcore-microservice\src\BuildingBlocks\Common.Logging\obj\Debug\net8.0\Common.Logging.csproj.AssemblyReference.cache
+D:\Tedu\MicroService\aspnetcore-microservice\src\BuildingBlocks\Common.Logging\obj\Debug\net8.0\Common.Logging.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tedu\MicroService\aspnetcore-microservice\src\BuildingBlocks\Common.Logging\obj\Debug\net8.0\Common.Logging.AssemblyInfoInputs.cache
+D:\Tedu\MicroService\aspnetcore-microservice\src\BuildingBlocks\Common.Logging\obj\Debug\net8.0\Common.Logging.AssemblyInfo.cs
+D:\Tedu\MicroService\aspnetcore-microservice\src\BuildingBlocks\Common.Logging\obj\Debug\net8.0\Common.Logging.csproj.CoreCompileInputs.cache
+D:\Tedu\MicroService\aspnetcore-microservice\src\BuildingBlocks\Common.Logging\obj\Debug\net8.0\Common.Logging.dll
+D:\Tedu\MicroService\aspnetcore-microservice\src\BuildingBlocks\Common.Logging\obj\Debug\net8.0\refint\Common.Logging.dll
+D:\Tedu\MicroService\aspnetcore-microservice\src\BuildingBlocks\Common.Logging\obj\Debug\net8.0\Common.Logging.pdb
+D:\Tedu\MicroService\aspnetcore-microservice\src\BuildingBlocks\Common.Logging\obj\Debug\net8.0\ref\Common.Logging.dll

@@ -1,0 +1,11 @@
+D:\Tedu\MicroService\aspnetcore-microservice\src\BuildingBlocks\EventBus.Messages\bin\Debug\net9.0\EventBus.Messages.deps.json
+D:\Tedu\MicroService\aspnetcore-microservice\src\BuildingBlocks\EventBus.Messages\bin\Debug\net9.0\EventBus.Messages.dll
+D:\Tedu\MicroService\aspnetcore-microservice\src\BuildingBlocks\EventBus.Messages\bin\Debug\net9.0\EventBus.Messages.pdb
+D:\Tedu\MicroService\aspnetcore-microservice\src\BuildingBlocks\EventBus.Messages\obj\Debug\net9.0\EventBus.Messages.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tedu\MicroService\aspnetcore-microservice\src\BuildingBlocks\EventBus.Messages\obj\Debug\net9.0\EventBus.Messages.AssemblyInfoInputs.cache
+D:\Tedu\MicroService\aspnetcore-microservice\src\BuildingBlocks\EventBus.Messages\obj\Debug\net9.0\EventBus.Messages.AssemblyInfo.cs
+D:\Tedu\MicroService\aspnetcore-microservice\src\BuildingBlocks\EventBus.Messages\obj\Debug\net9.0\EventBus.Messages.csproj.CoreCompileInputs.cache
+D:\Tedu\MicroService\aspnetcore-microservice\src\BuildingBlocks\EventBus.Messages\obj\Debug\net9.0\EventBus.Messages.dll
+D:\Tedu\MicroService\aspnetcore-microservice\src\BuildingBlocks\EventBus.Messages\obj\Debug\net9.0\refint\EventBus.Messages.dll
+D:\Tedu\MicroService\aspnetcore-microservice\src\BuildingBlocks\EventBus.Messages\obj\Debug\net9.0\EventBus.Messages.pdb
+D:\Tedu\MicroService\aspnetcore-microservice\src\BuildingBlocks\EventBus.Messages\obj\Debug\net9.0\ref\EventBus.Messages.dll
