@@ -9,3 +9,15 @@ D:\Tedu\MicroService\aspnetcore-microservice\src\BuildingBlocks\Contracts\obj\De
 D:\Tedu\MicroService\aspnetcore-microservice\src\BuildingBlocks\Contracts\obj\Debug\net8.0\refint\Contracts.dll
 D:\Tedu\MicroService\aspnetcore-microservice\src\BuildingBlocks\Contracts\obj\Debug\net8.0\Contracts.pdb
 D:\Tedu\MicroService\aspnetcore-microservice\src\BuildingBlocks\Contracts\obj\Debug\net8.0\ref\Contracts.dll
+D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\BuildingBlocks\Contracts\bin\Debug\net8.0\Contracts.deps.json
+D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\BuildingBlocks\Contracts\bin\Debug\net8.0\Contracts.dll
+D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\BuildingBlocks\Contracts\bin\Debug\net8.0\Contracts.pdb
+D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\BuildingBlocks\Contracts\obj\Debug\net8.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\BuildingBlocks\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfoInputs.cache
+D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\BuildingBlocks\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfo.cs
+D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\BuildingBlocks\Contracts\obj\Debug\net8.0\Contracts.csproj.CoreCompileInputs.cache
+D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\BuildingBlocks\Contracts\obj\Debug\net8.0\Contracts.sourcelink.json
+D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\BuildingBlocks\Contracts\obj\Debug\net8.0\Contracts.dll
+D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\BuildingBlocks\Contracts\obj\Debug\net8.0\refint\Contracts.dll
+D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\BuildingBlocks\Contracts\obj\Debug\net8.0\Contracts.pdb
+D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\BuildingBlocks\Contracts\obj\Debug\net8.0\ref\Contracts.dll

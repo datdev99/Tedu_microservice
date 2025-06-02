@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1PQb+fRpcMo=",
+  "dgSpecHash": "3TzVmni/VKo=",
   "success": true,
-  "projectFilePath": "D:\\Tedu\\MicroService\\aspnetcore-microservice\\src\\BuildingBlocks\\Contracts\\Contracts.csproj",
+  "projectFilePath": "D:\\DatDev\\Tedu_microservice\\aspnetcore-microservice\\src\\BuildingBlocks\\Contracts\\Contracts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
