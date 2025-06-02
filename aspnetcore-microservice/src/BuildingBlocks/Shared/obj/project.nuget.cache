@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GiKevgO2GlY=",
+  "dgSpecHash": "Nb6n3TWGYVc=",
   "success": true,
-  "projectFilePath": "D:\\Tedu\\MicroService\\aspnetcore-microservice\\src\\BuildingBlocks\\Shared\\Shared.csproj",
+  "projectFilePath": "D:\\DatDev\\Tedu_microservice\\aspnetcore-microservice\\src\\BuildingBlocks\\Shared\\Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
