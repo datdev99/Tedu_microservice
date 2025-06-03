@@ -5,7 +5,7 @@ namespace Infrastructure.Mappings;
 
 public static class AutoMapperExtensions
 {
-    public static IMappingExpression<TSource, TDestination> IgnoreAllProperties<TSource, TDestination>
+    public static IMappingExpression<TSource, TDestination> IgnoreAllNonExisting<TSource, TDestination>
         (this IMappingExpression<TSource, TDestination> expression)
     {
         var flags = BindingFlags.Public | BindingFlags.Instance;

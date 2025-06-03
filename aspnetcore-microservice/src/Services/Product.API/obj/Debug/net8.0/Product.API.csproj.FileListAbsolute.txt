@@ -250,3 +250,7 @@ D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\Services\Product.API\obj
 D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\Services\Product.API\obj\Debug\net8.0\Product.API.pdb
 D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\Services\Product.API\obj\Debug\net8.0\Product.API.genruntimeconfig.cache
 D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\Services\Product.API\obj\Debug\net8.0\ref\Product.API.dll
+D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\Services\Product.API\bin\Debug\net8.0\Infrastructure.dll
+D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\Services\Product.API\bin\Debug\net8.0\Shared.dll
+D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\Services\Product.API\bin\Debug\net8.0\Infrastructure.pdb
+D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\Services\Product.API\bin\Debug\net8.0\Shared.pdb

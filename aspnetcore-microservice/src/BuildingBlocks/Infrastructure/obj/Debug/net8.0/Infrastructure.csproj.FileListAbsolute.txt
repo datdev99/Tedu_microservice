@@ -21,3 +21,7 @@ D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\BuildingBlocks\Infrastru
 D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\BuildingBlocks\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
 D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\BuildingBlocks\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
 D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\BuildingBlocks\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\BuildingBlocks\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\BuildingBlocks\Infrastructure\bin\Debug\net8.0\Contracts.dll
+D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\BuildingBlocks\Infrastructure\bin\Debug\net8.0\Contracts.pdb
+D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\BuildingBlocks\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date

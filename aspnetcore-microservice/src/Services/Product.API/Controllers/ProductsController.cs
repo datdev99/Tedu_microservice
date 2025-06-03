@@ -2,6 +2,8 @@ using System.ComponentModel.DataAnnotations;
 using AutoMapper;
 using Microsoft.AspNetCore.Mvc;
 using Product.API.Entities;
+using Product.API.Repositories;
+using Shared.DTOs.Product;
 
 namespace Product.API.Controllers;
 
@@ -37,21 +39,22 @@ public class ProductsController : ControllerBase
         
         var product = _mapper.Map<CatalogProduct>(productDto);
         await _repository.CreateProduct(product);
-        await _repository.SaveChangeAsync();
+        await _repository.SaveChangesAsync();
         var result = _mapper.Map<ProductDto>(product);
         return Ok(result);
     }
 
     [HttpPut("{id:long}")]
-    public async Task<IActionResult> UpdateProduct([Required] long id, [FromBody] UpdateProductDto productDto)
+    public async Task<IActionResult> UpdateProduct([Required] long id, 
+        [FromBody] UpdateProductDto updateProductDto)
     {
         var product = await _repository.GetProduct(id);
         if(product == null)
             return NotFound();
         
-        var updateProduct = _mapper.Map<ProductDto>(product);
+        var updateProduct = _mapper.Map(updateProductDto, product);
         await _repository.UpdateProduct(updateProduct);
-        await _repository.SaveChangeAsync();
+        await _repository.SaveChangesAsync();
         var result = _mapper.Map<ProductDto>(product);
         return Ok(result);
     }
@@ -64,7 +67,7 @@ public class ProductsController : ControllerBase
             return NotFound();
 
         await _repository.DeleteProduct(id);
-        await _repository.SaveChangeAsync();
+        await _repository.SaveChangesAsync();
         return NoContent();
     }
     
@@ -76,8 +79,8 @@ public class ProductsController : ControllerBase
     public async Task<IActionResult> GetProductByNo([Required] string productNo)
     {
         var product = await _repository.GetProductByNo(productNo);
-        if(product == null)
-            return NotFound();
+        // if(product == null)
+        //     return NotFound();
         
         var result = _mapper.Map<ProductDto>(product);
         return Ok(result);
