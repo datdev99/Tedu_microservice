@@ -10,3 +10,16 @@ D:\Tedu\MicroService\aspnetcore-microservice\src\BuildingBlocks\Common.Logging\o
 D:\Tedu\MicroService\aspnetcore-microservice\src\BuildingBlocks\Common.Logging\obj\Debug\net8.0\refint\Common.Logging.dll
 D:\Tedu\MicroService\aspnetcore-microservice\src\BuildingBlocks\Common.Logging\obj\Debug\net8.0\Common.Logging.pdb
 D:\Tedu\MicroService\aspnetcore-microservice\src\BuildingBlocks\Common.Logging\obj\Debug\net8.0\ref\Common.Logging.dll
+D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\BuildingBlocks\Common.Logging\bin\Debug\net8.0\Common.Logging.deps.json
+D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\BuildingBlocks\Common.Logging\bin\Debug\net8.0\Common.Logging.dll
+D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\BuildingBlocks\Common.Logging\bin\Debug\net8.0\Common.Logging.pdb
+D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\BuildingBlocks\Common.Logging\obj\Debug\net8.0\Common.Logging.csproj.AssemblyReference.cache
+D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\BuildingBlocks\Common.Logging\obj\Debug\net8.0\Common.Logging.GeneratedMSBuildEditorConfig.editorconfig
+D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\BuildingBlocks\Common.Logging\obj\Debug\net8.0\Common.Logging.AssemblyInfoInputs.cache
+D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\BuildingBlocks\Common.Logging\obj\Debug\net8.0\Common.Logging.AssemblyInfo.cs
+D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\BuildingBlocks\Common.Logging\obj\Debug\net8.0\Common.Logging.csproj.CoreCompileInputs.cache
+D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\BuildingBlocks\Common.Logging\obj\Debug\net8.0\Common.Logging.sourcelink.json
+D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\BuildingBlocks\Common.Logging\obj\Debug\net8.0\Common.Logging.dll
+D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\BuildingBlocks\Common.Logging\obj\Debug\net8.0\refint\Common.Logging.dll
+D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\BuildingBlocks\Common.Logging\obj\Debug\net8.0\Common.Logging.pdb
+D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\BuildingBlocks\Common.Logging\obj\Debug\net8.0\ref\Common.Logging.dll

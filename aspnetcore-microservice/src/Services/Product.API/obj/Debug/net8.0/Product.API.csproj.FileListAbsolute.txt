@@ -120,3 +120,16 @@ D:\Tedu\MicroService\aspnetcore-microservice\src\services\Product.API\bin\Debug\
 D:\Tedu\MicroService\aspnetcore-microservice\src\services\Product.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Tedu\MicroService\aspnetcore-microservice\src\services\Product.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Tedu\MicroService\aspnetcore-microservice\src\services\Product.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\Services\Product.API\obj\Debug\net8.0\Product.API.csproj.AssemblyReference.cache
+D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\Services\Product.API\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\Services\Product.API\obj\Debug\net8.0\Product.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\Services\Product.API\obj\Debug\net8.0\Product.API.AssemblyInfoInputs.cache
+D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\Services\Product.API\obj\Debug\net8.0\Product.API.AssemblyInfo.cs
+D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\Services\Product.API\obj\Debug\net8.0\Product.API.csproj.CoreCompileInputs.cache
+D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\Services\Product.API\obj\Debug\net8.0\Product.API.MvcApplicationPartsAssemblyInfo.cs
+D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\Services\Product.API\obj\Debug\net8.0\Product.API.MvcApplicationPartsAssemblyInfo.cache
+D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\Services\Product.API\obj\Debug\net8.0\Product.API.sourcelink.json
+D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\Services\Product.API\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\Services\Product.API\obj\Debug\net8.0\Product.API.dll
+D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\Services\Product.API\obj\Debug\net8.0\refint\Product.API.dll
+D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\Services\Product.API\obj\Debug\net8.0\Product.API.pdb

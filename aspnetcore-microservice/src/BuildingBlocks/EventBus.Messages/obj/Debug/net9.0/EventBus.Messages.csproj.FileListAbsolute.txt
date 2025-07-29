@@ -9,3 +9,15 @@ D:\Tedu\MicroService\aspnetcore-microservice\src\BuildingBlocks\EventBus.Message
 D:\Tedu\MicroService\aspnetcore-microservice\src\BuildingBlocks\EventBus.Messages\obj\Debug\net9.0\refint\EventBus.Messages.dll
 D:\Tedu\MicroService\aspnetcore-microservice\src\BuildingBlocks\EventBus.Messages\obj\Debug\net9.0\EventBus.Messages.pdb
 D:\Tedu\MicroService\aspnetcore-microservice\src\BuildingBlocks\EventBus.Messages\obj\Debug\net9.0\ref\EventBus.Messages.dll
+D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\BuildingBlocks\EventBus.Messages\bin\Debug\net9.0\EventBus.Messages.deps.json
+D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\BuildingBlocks\EventBus.Messages\bin\Debug\net9.0\EventBus.Messages.dll
+D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\BuildingBlocks\EventBus.Messages\bin\Debug\net9.0\EventBus.Messages.pdb
+D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\BuildingBlocks\EventBus.Messages\obj\Debug\net9.0\EventBus.Messages.GeneratedMSBuildEditorConfig.editorconfig
+D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\BuildingBlocks\EventBus.Messages\obj\Debug\net9.0\EventBus.Messages.AssemblyInfoInputs.cache
+D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\BuildingBlocks\EventBus.Messages\obj\Debug\net9.0\EventBus.Messages.AssemblyInfo.cs
+D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\BuildingBlocks\EventBus.Messages\obj\Debug\net9.0\EventBus.Messages.csproj.CoreCompileInputs.cache
+D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\BuildingBlocks\EventBus.Messages\obj\Debug\net9.0\EventBus.Messages.sourcelink.json
+D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\BuildingBlocks\EventBus.Messages\obj\Debug\net9.0\EventBus.Messages.dll
+D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\BuildingBlocks\EventBus.Messages\obj\Debug\net9.0\refint\EventBus.Messages.dll
+D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\BuildingBlocks\EventBus.Messages\obj\Debug\net9.0\EventBus.Messages.pdb
+D:\DatDev\Tedu_microservice\aspnetcore-microservice\src\BuildingBlocks\EventBus.Messages\obj\Debug\net9.0\ref\EventBus.Messages.dll

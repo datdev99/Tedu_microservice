@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pj3MtQBATE8=",
+  "dgSpecHash": "ARHfDwYxLOk=",
   "success": true,
-  "projectFilePath": "D:\\Tedu\\MicroService\\aspnetcore-microservice\\src\\BuildingBlocks\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "D:\\DatDev\\Tedu_microservice\\aspnetcore-microservice\\src\\BuildingBlocks\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

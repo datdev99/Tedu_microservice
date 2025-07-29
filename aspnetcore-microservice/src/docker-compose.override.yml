@@ -2,7 +2,7 @@ version: '3.8'
 
 services:
   orderdb:
-    container_name: sqlserverdb
+    container_name: orderdb
     environment:
       SA_PASSWORD: "Passw0rd!"
       ACCEPT_EULA: "Y"
@@ -15,7 +15,7 @@ services:
   
   #productdb: mysql  
   productdb:
-    container_name: mysqldb
+    container_name: productdb
     environment:
       MYSQL_ROOT_PASSWORD: "Passw0rd!"
     restart: always
@@ -26,11 +26,11 @@ services:
     
   #customerdb: postgres
   customerdb:
-    container_name: postgresdb
+    container_name: customerdb
     environment:
       - POSTGRES_USER=admin
       - POSTGRES_PASSWORD=admin1234
-      - POSTGRES_DB=DiscountDb
+      - POSTGRES_DB=CustomerDB
     restart: always
     ports:
       - "5433:5432"
@@ -65,7 +65,7 @@ services:
   pgadmin:
     container_name: pgadmin
     environment:
-      - PGADMIN_DEFAULT_EMAIL=admin@tedu_microservice.com
+      - PGADMIN_DEFAULT_EMAIL=admin@tedu.com.vn
       - PGADMIN_DEFAULT_PASSWORD=admin1234
     restart: always
     ports:
@@ -77,7 +77,6 @@ services:
     container_name: portainer
     restart: always
     ports:
-      - "8080:8000"
       - "9000:9000"
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
