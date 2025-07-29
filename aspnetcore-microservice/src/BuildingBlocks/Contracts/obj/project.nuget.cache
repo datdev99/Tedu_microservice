@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FJmeWi3p6dY=",
+  "dgSpecHash": "JPYfExuULv4=",
   "success": true,
-  "projectFilePath": "D:\\DatDev\\Tedu_microservice\\aspnetcore-microservice\\src\\BuildingBlocks\\Contracts\\Contracts.csproj",
+  "projectFilePath": "D:\\DatDev\\Tedu\\Tedu_microservice\\aspnetcore-microservice\\src\\BuildingBlocks\\Contracts\\Contracts.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\saigo\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.7\\microsoft.entityframeworkcore.8.0.7.nupkg.sha512",
     "C:\\Users\\saigo\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.7\\microsoft.entityframeworkcore.abstractions.8.0.7.nupkg.sha512",

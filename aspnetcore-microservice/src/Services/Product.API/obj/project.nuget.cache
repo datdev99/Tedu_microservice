@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NWU0BaFI6xs=",
+  "dgSpecHash": "1RPOPQAB5QE=",
   "success": true,
-  "projectFilePath": "D:\\DatDev\\Tedu_microservice\\aspnetcore-microservice\\src\\Services\\Product.API\\Product.API.csproj",
+  "projectFilePath": "D:\\DatDev\\Tedu\\Tedu_microservice\\aspnetcore-microservice\\src\\Services\\Product.API\\Product.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\saigo\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\saigo\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
