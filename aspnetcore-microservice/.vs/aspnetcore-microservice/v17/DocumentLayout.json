@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DatDev\\Tedu\\Tedu_microservice\\aspnetcore-microservice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9DF60E6-DE77-48C2-BAF5-B7BD97738319}|src\\Services\\Product.API\\Product.API.csproj|d:\\datdev\\tedu\\tedu_microservice\\aspnetcore-microservice\\src\\services\\product.api\\product.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E9DF60E6-DE77-48C2-BAF5-B7BD97738319}|src\\Services\\Product.API\\Product.API.csproj|solutionrelative:src\\services\\product.api\\product.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E4C4609-7222-4369-8118-DD3E99A7B105}|src\\Services\\Basket.API\\Basket.API.csproj|d:\\datdev\\tedu\\tedu_microservice\\aspnetcore-microservice\\src\\services\\basket.api\\basket.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2E4C4609-7222-4369-8118-DD3E99A7B105}|src\\Services\\Basket.API\\Basket.API.csproj|solutionrelative:src\\services\\basket.api\\basket.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E4C4609-7222-4369-8118-DD3E99A7B105}|src\\Services\\Basket.API\\Basket.API.csproj|d:\\datdev\\tedu\\tedu_microservice\\aspnetcore-microservice\\src\\services\\basket.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E4C4609-7222-4369-8118-DD3E99A7B105}|src\\Services\\Basket.API\\Basket.API.csproj|solutionrelative:src\\services\\basket.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E4C4609-7222-4369-8118-DD3E99A7B105}|src\\Services\\Basket.API\\Basket.API.csproj|d:\\datdev\\tedu\\tedu_microservice\\aspnetcore-microservice\\src\\services\\basket.api\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E4C4609-7222-4369-8118-DD3E99A7B105}|src\\Services\\Basket.API\\Basket.API.csproj|solutionrelative:src\\services\\basket.api\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E4C4609-7222-4369-8118-DD3E99A7B105}|src\\Services\\Basket.API\\Basket.API.csproj|d:\\datdev\\tedu\\tedu_microservice\\aspnetcore-microservice\\src\\services\\basket.api\\repositories\\basketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E4C4609-7222-4369-8118-DD3E99A7B105}|src\\Services\\Basket.API\\Basket.API.csproj|solutionrelative:src\\services\\basket.api\\repositories\\basketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB4FB98-F8E6-41DA-A56D-5E878BBCA527}|src\\BuildingBlocks\\Contracts\\Contracts.csproj|d:\\datdev\\tedu\\tedu_microservice\\aspnetcore-microservice\\src\\buildingblocks\\contracts\\common\\interfaces\\iserializeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CB4FB98-F8E6-41DA-A56D-5E878BBCA527}|src\\BuildingBlocks\\Contracts\\Contracts.csproj|solutionrelative:src\\buildingblocks\\contracts\\common\\interfaces\\iserializeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3EBBF7-D78F-4BCE-94DD-6B0629AD02DD}|src\\BuildingBlocks\\Infrastructure\\Infrastructure.csproj|d:\\datdev\\tedu\\tedu_microservice\\aspnetcore-microservice\\src\\buildingblocks\\infrastructure\\common\\serializeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3EBBF7-D78F-4BCE-94DD-6B0629AD02DD}|src\\BuildingBlocks\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\buildingblocks\\infrastructure\\common\\serializeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E4C4609-7222-4369-8118-DD3E99A7B105}|src\\Services\\Basket.API\\Basket.API.csproj|d:\\datdev\\tedu\\tedu_microservice\\aspnetcore-microservice\\src\\services\\basket.api\\repositories\\interfaces\\ibasketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E4C4609-7222-4369-8118-DD3E99A7B105}|src\\Services\\Basket.API\\Basket.API.csproj|solutionrelative:src\\services\\basket.api\\repositories\\interfaces\\ibasketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B12840-6229-4F84-9ED5-766C13449D72}|src\\Services\\Customer.API\\Customer.API.csproj|d:\\datdev\\tedu\\tedu_microservice\\aspnetcore-microservice\\src\\services\\customer.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B12840-6229-4F84-9ED5-766C13449D72}|src\\Services\\Customer.API\\Customer.API.csproj|solutionrelative:src\\services\\customer.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B12840-6229-4F84-9ED5-766C13449D72}|src\\Services\\Customer.API\\Customer.API.csproj|d:\\datdev\\tedu\\tedu_microservice\\aspnetcore-microservice\\src\\services\\customer.api\\repositories\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B12840-6229-4F84-9ED5-766C13449D72}|src\\Services\\Customer.API\\Customer.API.csproj|solutionrelative:src\\services\\customer.api\\repositories\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B12840-6229-4F84-9ED5-766C13449D72}|src\\Services\\Customer.API\\Customer.API.csproj|d:\\datdev\\tedu\\tedu_microservice\\aspnetcore-microservice\\src\\services\\customer.api\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B12840-6229-4F84-9ED5-766C13449D72}|src\\Services\\Customer.API\\Customer.API.csproj|solutionrelative:src\\services\\customer.api\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B12840-6229-4F84-9ED5-766C13449D72}|src\\Services\\Customer.API\\Customer.API.csproj|d:\\datdev\\tedu\\tedu_microservice\\aspnetcore-microservice\\src\\services\\customer.api\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B12840-6229-4F84-9ED5-766C13449D72}|src\\Services\\Customer.API\\Customer.API.csproj|solutionrelative:src\\services\\customer.api\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB4FB98-F8E6-41DA-A56D-5E878BBCA527}|src\\BuildingBlocks\\Contracts\\Contracts.csproj|d:\\datdev\\tedu\\tedu_microservice\\aspnetcore-microservice\\src\\buildingblocks\\contracts\\common\\interfaces\\irepositorybaseasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CB4FB98-F8E6-41DA-A56D-5E878BBCA527}|src\\BuildingBlocks\\Contracts\\Contracts.csproj|solutionrelative:src\\buildingblocks\\contracts\\common\\interfaces\\irepositorybaseasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B12840-6229-4F84-9ED5-766C13449D72}|src\\Services\\Customer.API\\Customer.API.csproj|d:\\datdev\\tedu\\tedu_microservice\\aspnetcore-microservice\\src\\services\\customer.api\\services\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B12840-6229-4F84-9ED5-766C13449D72}|src\\Services\\Customer.API\\Customer.API.csproj|solutionrelative:src\\services\\customer.api\\services\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.API",
+              "DocumentMoniker": "D:\\DatDev\\Tedu\\Tedu_microservice\\aspnetcore-microservice\\src\\Services\\Product.API\\Product.API.csproj",
+              "RelativeDocumentMoniker": "src\\Services\\Product.API\\Product.API.csproj",
+              "ToolTip": "D:\\DatDev\\Tedu\\Tedu_microservice\\aspnetcore-microservice\\src\\Services\\Product.API\\Product.API.csproj",
+              "RelativeToolTip": "src\\Services\\Product.API\\Product.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-30T03:39:32.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DatDev\\Tedu\\Tedu_microservice\\aspnetcore-microservice\\src\\Services\\Basket.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Basket.API\\Program.cs",
+              "ToolTip": "D:\\DatDev\\Tedu\\Tedu_microservice\\aspnetcore-microservice\\src\\Services\\Basket.API\\Program.cs",
+              "RelativeToolTip": "src\\Services\\Basket.API\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T03:36:38.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "D:\\DatDev\\Tedu\\Tedu_microservice\\aspnetcore-microservice\\src\\Services\\Basket.API\\Extensions\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Basket.API\\Extensions\\ServiceExtensions.cs",
+              "ToolTip": "D:\\DatDev\\Tedu\\Tedu_microservice\\aspnetcore-microservice\\src\\Services\\Basket.API\\Extensions\\ServiceExtensions.cs",
+              "RelativeToolTip": "src\\Services\\Basket.API\\Extensions\\ServiceExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T03:33:47.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SerializeService.cs",
+              "DocumentMoniker": "D:\\DatDev\\Tedu\\Tedu_microservice\\aspnetcore-microservice\\src\\BuildingBlocks\\Infrastructure\\Common\\SerializeService.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\Infrastructure\\Common\\SerializeService.cs",
+              "ToolTip": "D:\\DatDev\\Tedu\\Tedu_microservice\\aspnetcore-microservice\\src\\BuildingBlocks\\Infrastructure\\Common\\SerializeService.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\Infrastructure\\Common\\SerializeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T02:46:14.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISerializeService.cs",
+              "DocumentMoniker": "D:\\DatDev\\Tedu\\Tedu_microservice\\aspnetcore-microservice\\src\\BuildingBlocks\\Contracts\\Common\\Interfaces\\ISerializeService.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\Contracts\\Common\\Interfaces\\ISerializeService.cs",
+              "ToolTip": "D:\\DatDev\\Tedu\\Tedu_microservice\\aspnetcore-microservice\\src\\BuildingBlocks\\Contracts\\Common\\Interfaces\\ISerializeService.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\Contracts\\Common\\Interfaces\\ISerializeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T02:44:42.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BasketRepository.cs",
+              "DocumentMoniker": "D:\\DatDev\\Tedu\\Tedu_microservice\\aspnetcore-microservice\\src\\Services\\Basket.API\\Repositories\\BasketRepository.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Basket.API\\Repositories\\BasketRepository.cs",
+              "ToolTip": "D:\\DatDev\\Tedu\\Tedu_microservice\\aspnetcore-microservice\\src\\Services\\Basket.API\\Repositories\\BasketRepository.cs",
+              "RelativeToolTip": "src\\Services\\Basket.API\\Repositories\\BasketRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T02:37:22.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Basket.API",
+              "DocumentMoniker": "D:\\DatDev\\Tedu\\Tedu_microservice\\aspnetcore-microservice\\src\\Services\\Basket.API\\Basket.API.csproj",
+              "RelativeDocumentMoniker": "src\\Services\\Basket.API\\Basket.API.csproj",
+              "ToolTip": "D:\\DatDev\\Tedu\\Tedu_microservice\\aspnetcore-microservice\\src\\Services\\Basket.API\\Basket.API.csproj",
+              "RelativeToolTip": "src\\Services\\Basket.API\\Basket.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-30T02:33:45.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBasketRepository.cs",
+              "DocumentMoniker": "D:\\DatDev\\Tedu\\Tedu_microservice\\aspnetcore-microservice\\src\\Services\\Basket.API\\Repositories\\Interfaces\\IBasketRepository.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Basket.API\\Repositories\\Interfaces\\IBasketRepository.cs",
+              "ToolTip": "D:\\DatDev\\Tedu\\Tedu_microservice\\aspnetcore-microservice\\src\\Services\\Basket.API\\Repositories\\Interfaces\\IBasketRepository.cs",
+              "RelativeToolTip": "src\\Services\\Basket.API\\Repositories\\Interfaces\\IBasketRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T02:34:43.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DatDev\\Tedu\\Tedu_microservice\\aspnetcore-microservice\\src\\Services\\Customer.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Customer.API\\Program.cs",
+              "ToolTip": "D:\\DatDev\\Tedu\\Tedu_microservice\\aspnetcore-microservice\\src\\Services\\Customer.API\\Program.cs",
+              "RelativeToolTip": "src\\Services\\Customer.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T09:45:29.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "D:\\DatDev\\Tedu\\Tedu_microservice\\aspnetcore-microservice\\src\\Services\\Customer.API\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Customer.API\\Services\\CustomerService.cs",
+              "ToolTip": "D:\\DatDev\\Tedu\\Tedu_microservice\\aspnetcore-microservice\\src\\Services\\Customer.API\\Services\\CustomerService.cs",
+              "RelativeToolTip": "src\\Services\\Customer.API\\Services\\CustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T09:31:36.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "D:\\DatDev\\Tedu\\Tedu_microservice\\aspnetcore-microservice\\src\\Services\\Customer.API\\Services\\Interfaces\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Customer.API\\Services\\Interfaces\\ICustomerService.cs",
+              "ToolTip": "D:\\DatDev\\Tedu\\Tedu_microservice\\aspnetcore-microservice\\src\\Services\\Customer.API\\Services\\Interfaces\\ICustomerService.cs",
+              "RelativeToolTip": "src\\Services\\Customer.API\\Services\\Interfaces\\ICustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T09:30:49.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "D:\\DatDev\\Tedu\\Tedu_microservice\\aspnetcore-microservice\\src\\Services\\Customer.API\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Customer.API\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "D:\\DatDev\\Tedu\\Tedu_microservice\\aspnetcore-microservice\\src\\Services\\Customer.API\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "src\\Services\\Customer.API\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T09:25:35.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IRepositoryBaseAsync.cs",
+              "DocumentMoniker": "D:\\DatDev\\Tedu\\Tedu_microservice\\aspnetcore-microservice\\src\\BuildingBlocks\\Contracts\\Common\\Interfaces\\IRepositoryBaseAsync.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\Contracts\\Common\\Interfaces\\IRepositoryBaseAsync.cs",
+              "ToolTip": "D:\\DatDev\\Tedu\\Tedu_microservice\\aspnetcore-microservice\\src\\BuildingBlocks\\Contracts\\Common\\Interfaces\\IRepositoryBaseAsync.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\Contracts\\Common\\Interfaces\\IRepositoryBaseAsync.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T09:22:26.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "D:\\DatDev\\Tedu\\Tedu_microservice\\aspnetcore-microservice\\src\\Services\\Customer.API\\Repositories\\Interfaces\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Customer.API\\Repositories\\Interfaces\\ICustomerRepository.cs",
+              "ToolTip": "D:\\DatDev\\Tedu\\Tedu_microservice\\aspnetcore-microservice\\src\\Services\\Customer.API\\Repositories\\Interfaces\\ICustomerRepository.cs",
+              "RelativeToolTip": "src\\Services\\Customer.API\\Repositories\\Interfaces\\ICustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T09:21:12.162Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
