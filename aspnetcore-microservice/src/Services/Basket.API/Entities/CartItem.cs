@@ -1,12 +1,17 @@
-﻿namespace Basket.API.Entities
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace Basket.API.Entities
 {
     public class CartItem
     {
-        public CartItem() { }
-        public CartItem(int id) { }
         public int Id { get; set; }
-        public string ProductName { get; set; } = string.Empty;
-        public decimal Price { get; set; }
+        public string ItemName { get; set; }
+        public string ItemNo { get; set; }
+        [Required]
+        [Range(0.1, double.PositiveInfinity, ErrorMessage = "The field {0} must be >= 1.")]
+        public decimal ItemPrice { get; set; }
+        [Required]
+        [Range(1, double.PositiveInfinity, ErrorMessage = "The field {0} must be >= 1.")]
         public int Quantity { get; set; } = 1;
     }
 }

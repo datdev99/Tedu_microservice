@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "D:\\DatDev\\Tedu\\Tedu_microservice\\aspnetcore-microservice\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2E4C4609-7222-4369-8118-DD3E99A7B105}|src\\Services\\Basket.API\\Basket.API.csproj|d:\\datdev\\tedu\\tedu_microservice\\aspnetcore-microservice\\src\\services\\basket.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2E4C4609-7222-4369-8118-DD3E99A7B105}|src\\Services\\Basket.API\\Basket.API.csproj|solutionrelative:src\\services\\basket.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E4C4609-7222-4369-8118-DD3E99A7B105}|src\\Services\\Basket.API\\Basket.API.csproj|d:\\datdev\\tedu\\tedu_microservice\\aspnetcore-microservice\\src\\services\\basket.api\\entities\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E4C4609-7222-4369-8118-DD3E99A7B105}|src\\Services\\Basket.API\\Basket.API.csproj|solutionrelative:src\\services\\basket.api\\entities\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E4C4609-7222-4369-8118-DD3E99A7B105}|src\\Services\\Basket.API\\Basket.API.csproj|d:\\datdev\\tedu\\tedu_microservice\\aspnetcore-microservice\\src\\services\\basket.api\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E4C4609-7222-4369-8118-DD3E99A7B105}|src\\Services\\Basket.API\\Basket.API.csproj|solutionrelative:src\\services\\basket.api\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E4C4609-7222-4369-8118-DD3E99A7B105}|src\\Services\\Basket.API\\Basket.API.csproj|d:\\datdev\\tedu\\tedu_microservice\\aspnetcore-microservice\\src\\services\\basket.api\\repositories\\basketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E4C4609-7222-4369-8118-DD3E99A7B105}|src\\Services\\Basket.API\\Basket.API.csproj|solutionrelative:src\\services\\basket.api\\repositories\\basketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2E4C4609-7222-4369-8118-DD3E99A7B105}|src\\Services\\Basket.API\\Basket.API.csproj|d:\\datdev\\tedu\\tedu_microservice\\aspnetcore-microservice\\src\\services\\basket.api\\controllers\\basketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E4C4609-7222-4369-8118-DD3E99A7B105}|src\\Services\\Basket.API\\Basket.API.csproj|solutionrelative:src\\services\\basket.api\\controllers\\basketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9DF60E6-DE77-48C2-BAF5-B7BD97738319}|src\\Services\\Product.API\\Product.API.csproj|d:\\datdev\\tedu\\tedu_microservice\\aspnetcore-microservice\\src\\services\\product.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9DF60E6-DE77-48C2-BAF5-B7BD97738319}|src\\Services\\Product.API\\Product.API.csproj|solutionrelative:src\\services\\product.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E4C4609-7222-4369-8118-DD3E99A7B105}|src\\Services\\Basket.API\\Basket.API.csproj|d:\\datdev\\tedu\\tedu_microservice\\aspnetcore-microservice\\src\\services\\basket.api\\basket.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{2E4C4609-7222-4369-8118-DD3E99A7B105}|src\\Services\\Basket.API\\Basket.API.csproj|solutionrelative:src\\services\\basket.api\\basket.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +35,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BasketsController.cs",
-              "DocumentMoniker": "D:\\DatDev\\Tedu\\Tedu_microservice\\aspnetcore-microservice\\src\\Services\\Basket.API\\Controllers\\BasketsController.cs",
-              "RelativeDocumentMoniker": "src\\Services\\Basket.API\\Controllers\\BasketsController.cs",
-              "ToolTip": "D:\\DatDev\\Tedu\\Tedu_microservice\\aspnetcore-microservice\\src\\Services\\Basket.API\\Controllers\\BasketsController.cs",
-              "RelativeToolTip": "src\\Services\\Basket.API\\Controllers\\BasketsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T08:20:11.342Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "D:\\DatDev\\Tedu\\Tedu_microservice\\aspnetcore-microservice\\src\\Services\\Product.API\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "src\\Services\\Product.API\\Controllers\\ProductsController.cs",
-              "ToolTip": "D:\\DatDev\\Tedu\\Tedu_microservice\\aspnetcore-microservice\\src\\Services\\Product.API\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "src\\Services\\Product.API\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T08:20:02.902Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DatDev\\Tedu\\Tedu_microservice\\aspnetcore-microservice\\src\\Services\\Basket.API\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Services\\Basket.API\\appsettings.json",
+              "ToolTip": "D:\\DatDev\\Tedu\\Tedu_microservice\\aspnetcore-microservice\\src\\Services\\Basket.API\\appsettings.json",
+              "RelativeToolTip": "src\\Services\\Basket.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-31T10:19:39.08Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Basket.API.http",
-              "DocumentMoniker": "D:\\DatDev\\Tedu\\Tedu_microservice\\aspnetcore-microservice\\src\\Services\\Basket.API\\Basket.API.http",
-              "RelativeDocumentMoniker": "src\\Services\\Basket.API\\Basket.API.http",
-              "ToolTip": "D:\\DatDev\\Tedu\\Tedu_microservice\\aspnetcore-microservice\\src\\Services\\Basket.API\\Basket.API.http",
-              "RelativeToolTip": "src\\Services\\Basket.API\\Basket.API.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-07-30T08:19:48.356Z",
+              "Title": "Cart.cs",
+              "DocumentMoniker": "D:\\DatDev\\Tedu\\Tedu_microservice\\aspnetcore-microservice\\src\\Services\\Basket.API\\Entities\\Cart.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Basket.API\\Entities\\Cart.cs",
+              "ToolTip": "D:\\DatDev\\Tedu\\Tedu_microservice\\aspnetcore-microservice\\src\\Services\\Basket.API\\Entities\\Cart.cs",
+              "RelativeToolTip": "src\\Services\\Basket.API\\Entities\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T10:12:18.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "D:\\DatDev\\Tedu\\Tedu_microservice\\aspnetcore-microservice\\src\\Services\\Basket.API\\Entities\\CartItem.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Basket.API\\Entities\\CartItem.cs",
+              "ToolTip": "D:\\DatDev\\Tedu\\Tedu_microservice\\aspnetcore-microservice\\src\\Services\\Basket.API\\Entities\\CartItem.cs",
+              "RelativeToolTip": "src\\Services\\Basket.API\\Entities\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T10:11:39.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BasketRepository.cs",
+              "DocumentMoniker": "D:\\DatDev\\Tedu\\Tedu_microservice\\aspnetcore-microservice\\src\\Services\\Basket.API\\Repositories\\BasketRepository.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Basket.API\\Repositories\\BasketRepository.cs",
+              "ToolTip": "D:\\DatDev\\Tedu\\Tedu_microservice\\aspnetcore-microservice\\src\\Services\\Basket.API\\Repositories\\BasketRepository.cs",
+              "RelativeToolTip": "src\\Services\\Basket.API\\Repositories\\BasketRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowDEAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T10:01:47.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BasketsController.cs",
+              "DocumentMoniker": "D:\\DatDev\\Tedu\\Tedu_microservice\\aspnetcore-microservice\\src\\Services\\Basket.API\\Controllers\\BasketsController.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Basket.API\\Controllers\\BasketsController.cs",
+              "ToolTip": "D:\\DatDev\\Tedu\\Tedu_microservice\\aspnetcore-microservice\\src\\Services\\Basket.API\\Controllers\\BasketsController.cs",
+              "RelativeToolTip": "src\\Services\\Basket.API\\Controllers\\BasketsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T08:20:11.342Z",
               "EditorCaption": ""
             }
           ]
