@@ -6,7 +6,7 @@ services:
     environment:
       SA_PASSWORD: "Passw0rd!"
       ACCEPT_EULA: "Y"
-    restart: always
+    restart: no
     volumes:
       - sqlserver_data:/var/lib/sqlserver/data
     ports:
@@ -15,10 +15,10 @@ services:
   
   #productdb: mysql  
   productdb:
-    container_name: mysqldb
+    container_name: productdb
     environment:
       MYSQL_ROOT_PASSWORD: "Passw0rd!"
-    restart: always
+    restart: no
     volumes:
       - mysql_data:/var/lib/mysql
     ports:
@@ -31,7 +31,7 @@ services:
       - POSTGRES_USER=admin
       - POSTGRES_PASSWORD=admin1234
       - POSTGRES_DB=DiscountDb
-    restart: always
+    restart: no
     ports:
       - "5433:5432"
     volumes:
@@ -40,14 +40,14 @@ services:
   #basketdb: redis
   basketdb:
     container_name: basketdb
-    restart: always
+    restart: no
     ports:
       - "6379:6379"
   
   #inventorydb: mongo
   inventorydb:
     container_name: inventorydb
-    restart: always
+    restart: no
     ports:
       - "27017:27017"
     volumes:
@@ -57,7 +57,7 @@ services:
   
   rabbitmq:
     container_name: rabbitmq
-    restart: always
+    restart: no
     ports:
       - "5672:5672"
       - "15672:15672"
@@ -67,7 +67,7 @@ services:
     environment:
       - PGADMIN_DEFAULT_EMAIL=admin@tedu_microservice.com
       - PGADMIN_DEFAULT_PASSWORD=admin1234
-    restart: always
+    restart: no
     ports:
       - "5050:80"
     volumes:
@@ -75,7 +75,7 @@ services:
   
   portainer:
     container_name: portainer
-    restart: always
+    restart: no
     ports:
       - "8080:8000"
       - "9000:9000"
@@ -111,7 +111,7 @@ services:
     environment: 
       - ASPNETCORE_ENVIRONMENT=Development
       - ASPNETCORE_URLS=http://+:80
-      - "ConnectionString:DefaultConnectionString: Server=productdb; Port=3306; Database=ProductDB;Uid=root;Pwd=Passw0rd!"
+      - "ConnectionStrings:DefaultConnectionString=Server=productdb;Port=3306;Database=ProductDB;Uid=root;Pwd=Passw0rd!;"
     depends_on:
       - productdb
     ports:

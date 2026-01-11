@@ -11,7 +11,7 @@ COPY ["BuildingBlocks/Infrastructure/Infrastructure.csproj","BuildingBlocks/Infr
 COPY ["BuildingBlocks/Shared/Shared.csproj","BuildingBlocks/Shared/"]
 RUN dotnet restore "Services/Product.API/Product.API.csproj"
 COPY . .
-WORKDIR "src/Services/Product.API"
+WORKDIR "/src/Services/Product.API"
 RUN dotnet build "Product.API.csproj" -c Release -o /app/build
 
 FROM build as publish

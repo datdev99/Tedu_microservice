@@ -29,6 +29,14 @@ public class ProductsController : ControllerBase
         var result = _mapper.Map<IEnumerable<ProductDto>>(products);
         return Ok(result);
     }
+
+    [HttpGet("{id:long}")]
+    public async Task<IActionResult> GetProduct([Required] long id)
+    {
+        var product = await _repository.GetProduct(id);
+        var result = _mapper.Map<ProductDto>(product);
+        return Ok(result);
+    }
     
     [HttpPost]
     public async Task<IActionResult> CreateProduct([FromBody] CreateProductDto productDto)
